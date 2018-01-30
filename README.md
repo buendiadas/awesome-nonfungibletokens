@@ -1,5 +1,6 @@
 # Awesome-NFT
-An awesome list of resources regarding implementations of Non Fungible Tokens (ERC721 standard)
+An awesome curated list of resources regarding implementations of Non Fungible Tokens (ERC721 standard). Feel free to contribute!
+
 ## Collectibles
 - [Crypto Kitties](https://www.cryptokitties.co/)
 - [Decentraland](https://decentraland.org/)
