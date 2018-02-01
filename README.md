@@ -1,5 +1,8 @@
-# Awesome-NFT
+# Awesome-NFT 
+
 An awesome curated list of resources regarding implementations of Non Fungible Tokens (ERC721 standard). Feel free to contribute!
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Collectibles
 - [Crypto Kitties](https://www.cryptokitties.co/)
