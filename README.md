@@ -4,6 +4,8 @@ An awesome curated list of resources regarding implementations of Non Fungible T
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Recommended previous reading: [why people collect art](https://aeon.co/essays/what-drives-art-collectors-to-buy-and-display-their-finds)
+
 ## Collectibles
 - [Crypto Kitties](https://www.cryptokitties.co/)
 - [Decentraland](https://decentraland.org/)
