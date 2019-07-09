@@ -15,6 +15,7 @@ Recommended previous reading: [why people collect art](https://aeon.co/essays/wh
 - [EtherCraft](https://ethercraft.io/)
 - [Zombie Battleground](https://loom.games/)
 - [CryptoPets](https://cryptopets.co/Marketplace/)
+- [MLBCryptoBaseball](https://mlbcryptobaseball.com/)
 
 
 ## Art
@@ -30,6 +31,7 @@ Recommended previous reading: [why people collect art](https://aeon.co/essays/wh
 ## Development Tools
 
 - [District 0x MemeFactory](https://github.com/district0x/memefactory)
-
+## Tools
+- [NonFungible.com Analysis](http://nonfungible.com/)
 
 
