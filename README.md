@@ -31,6 +31,11 @@ Recommended previous reading: [why people collect art](https://aeon.co/essays/wh
 ## Development Tools
 
 - [District 0x MemeFactory](https://github.com/district0x/memefactory)
+
+
+## Wallets
+- [ERC721 Wallet](https://github.com/TimDaub/ERC721-wallet)
+
 ## Tools
 - [NonFungible.com Analysis](http://nonfungible.com/)
 
