@@ -13,6 +13,8 @@ Recommended previous reading: [why people collect art](https://aeon.co/essays/wh
 - [Crypto Celebrities](https://cryptocelebrities.co)
 - [Ethereum Monsters](http://etheremon.com/)
 - [EtherCraft](https://ethercraft.io/)
+- [Zombie Battleground](https://loom.games/)
+- [CryptoPets](https://cryptopets.co/Marketplace/)
 - [MLBCryptoBaseball](https://mlbcryptobaseball.com/)
 
 
