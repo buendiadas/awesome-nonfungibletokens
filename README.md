@@ -13,6 +13,9 @@ Recommended previous reading: [why people collect art](https://aeon.co/essays/wh
 - [Crypto Celebrities](https://cryptocelebrities.co)
 - [Ethereum Monsters](http://etheremon.com/)
 - [EtherCraft](https://ethercraft.io/)
+- [Zombie Battleground](https://loom.games/)
+- [CryptoPets](https://cryptopets.co/Marketplace/)
+- [MLBCryptoBaseball](https://mlbcryptobaseball.com/)
 
 
 ## Art
@@ -29,6 +32,11 @@ Recommended previous reading: [why people collect art](https://aeon.co/essays/wh
 
 - [District 0x MemeFactory](https://github.com/district0x/memefactory)
 
-## Wallets
 
+## Wallets
 - [ERC721 Wallet](https://github.com/TimDaub/ERC721-wallet)
+
+## Tools
+- [NonFungible.com Analysis](http://nonfungible.com/)
+
+
