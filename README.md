@@ -35,6 +35,7 @@ Recommended previous reading: [why people collect art](https://aeon.co/essays/wh
 
 ## Wallets
 - [ERC721 Wallet](https://github.com/TimDaub/ERC721-wallet)
+- [Trust Wallet](https://trustwallet.com/)
 
 ## Tools
 - [NonFungible.com Analysis](http://nonfungible.com/)
