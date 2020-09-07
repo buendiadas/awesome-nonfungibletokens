@@ -26,6 +26,7 @@ Recommended previous reading: [why people collect art](https://aeon.co/essays/wh
 ## MarketPlaces
 
 - [Opensea](https://opensea.io/)
+- [Rarible.com](https://app.rarible.com/)
 - [Rarebits](https://rarebits.io/)
 
 ## Development Tools
