@@ -33,6 +33,10 @@ Recommended previous reading: [why people collect art](https://aeon.co/essays/wh
 
 - [NFTNDX.IO](https://nftndx.io/)
 
+## Metadata
+
+- [Polybase](https://polybase.xyz)
+
 ## Development Tools
 
 - [District 0x MemeFactory](https://github.com/district0x/memefactory)
